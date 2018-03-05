@@ -1,4 +1,5 @@
 com/youBike/service/impl/YouBikeServiceImpl.class
 com/youBike/service/YouBikeService.class
 com/youBike/controller/YouBikeController.class
+com/youBike/dto/YouBikeDTO.class
 com/youBike/dto/MessageDTO.class

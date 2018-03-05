@@ -20,6 +20,15 @@
 			},
 			zoom : 13
 		});
+		$.ajax({
+			url: 'youBike/getYouBikeData',
+			success: function(res) {
+				console.log(res);
+			},
+			error: function(){
+				console.log('連線失敗');
+			}
+		})
 	}
 </script>
 </head>
