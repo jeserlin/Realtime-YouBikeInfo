@@ -2,7 +2,6 @@ package com.youBike.controller;
 
 import java.util.List;
 
-import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,13 +13,13 @@ import com.youBike.service.YouBikeService;
 @Controller
 @RequestMapping("/youBike")
 public class YouBikeController {
- 
+
 	@Autowired
 	private YouBikeService youBikeService;
 	
 	@RequestMapping("/getYouBikeData")
 	public MessageDTO<Object> getYouBikeData() {
-		System.out.println("in here");
+
 		MessageDTO<Object> dto = new MessageDTO<Object>();
 		
 		//get YouBike data from service.
@@ -34,7 +33,6 @@ public class YouBikeController {
 			dto.setSuccess(false);
 			dto.setMessage("Fail to get YouBike data.");
 		}
-		JSONObject ob=new JSONObject();
 		return dto;
 	}
 }

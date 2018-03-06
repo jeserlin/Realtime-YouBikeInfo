@@ -26,7 +26,7 @@
 				console.log(res);
 			},
 			error: function(){
-				console.log('連線失敗');
+				console.log('Fail to connect.');
 			}
 		})
 	}

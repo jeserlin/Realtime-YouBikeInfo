@@ -18,13 +18,13 @@ public class YouBikeDTO {
 	private String sarea;
 	
 	//data update time
-	private int mday;
+	private String mday;
 
 	//bike stop's latitude
-	private int lat;
+	private float lat;
 
 	//bike stop's longitude
-	private int lng;
+	private float lng;
 	
 	//address in Chinese
 	private String ar;
@@ -84,27 +84,27 @@ public class YouBikeDTO {
 		this.sarea = sarea;
 	}
 
-	public int getMday() {
+	public String getMday() {
 		return mday;
 	}
 
-	public void setMday(int mday) {
+	public void setMday(String mday) {
 		this.mday = mday;
 	}
 
-	public int getLat() {
+	public float getLat() {
 		return lat;
 	}
 
-	public void setLat(int lat) {
+	public void setLat(float lat) {
 		this.lat = lat;
 	}
 
-	public int getLng() {
+	public float getLng() {
 		return lng;
 	}
 
-	public void setLng(int lng) {
+	public void setLng(float lng) {
 		this.lng = lng;
 	}
 
