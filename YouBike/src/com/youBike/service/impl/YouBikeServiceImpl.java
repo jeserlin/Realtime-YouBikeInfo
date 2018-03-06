@@ -34,7 +34,6 @@ public class YouBikeServiceImpl implements YouBikeService {
 		}
 		jsonObj = jsonObj.getJSONObject("retVal");
 		List<YouBikeDTO> list = new ArrayList<YouBikeDTO>();
-		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 		for(Object key : jsonObj.keySet()) {
 			String keyStr = (String)key;
 			JSONObject keyValue = jsonObj.getJSONObject(keyStr);
