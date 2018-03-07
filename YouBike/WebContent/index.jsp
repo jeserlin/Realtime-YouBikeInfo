@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Instant Rain Fall</title>
+<title>Realtime YouBike Info.</title>
 
 <!-- CSS -->
 <link href="css/youBike.css" rel="stylesheet" media="screen">
@@ -22,11 +22,16 @@
 		});
 		$.ajax({
 			url: 'youBike/getYouBikeData',
+			type: 'POST',
 			success: function(res) {
+				if(!res.success){
+					console.log("ajax success, status failed.");
+					return;
+				}
 				console.log(res);
 			},
-			error: function(){
-				console.log('Fail to connect.');
+			error:function(qXHR, textStatus, errorThrown) {
+				console.log(textStatus, errorThrown);
 			}
 		})
 	}

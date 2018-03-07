@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.youBike.dto.MessageDTO;
 import com.youBike.dto.YouBikeDTO;
@@ -17,10 +18,11 @@ public class YouBikeController {
 	@Autowired
 	private YouBikeService youBikeService;
 	
+	@ResponseBody
 	@RequestMapping("/getYouBikeData")
-	public MessageDTO<Object> getYouBikeData() {
+	public MessageDTO<List<YouBikeDTO>> getYouBikeData() {
 
-		MessageDTO<Object> dto = new MessageDTO<Object>();
+		MessageDTO<List<YouBikeDTO>> dto = new MessageDTO<List<YouBikeDTO>>();
 		
 		//get YouBike data from service.
 		try {
