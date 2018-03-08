@@ -87,7 +87,6 @@
 </head>
 <body>
 	<div id="map"></div>
-	<script
-		src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8ti6B8D8eQxk8ZJhi8Tik0esCjddSvmY&libraries=visualization&callback=initMap"></script>
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8ti6B8D8eQxk8ZJhi8Tik0esCjddSvmY&libraries=visualization&callback=initMap"></script>
 </body>
 </html>
