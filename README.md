@@ -1,2 +1,2 @@
-# Realtime- YouBike information(Not finished yet)
+# Realtime- YouBike information
 This map shows realtime YouBike information.
