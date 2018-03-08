@@ -27,6 +27,9 @@
 			},
 			zoom : 15
 		});
+		 getData();
+	}
+	function getData() {
 		$.ajax({
 			url: 'youBike/getYouBikeData',
 			type: 'POST',
@@ -35,6 +38,7 @@
 					console.log("ajax success, status failed.");
 					return;
 				}
+				console.log(new Date());
 				console.log(res);
 				createMarkers(res.data);
 			},
@@ -83,6 +87,15 @@
 		var sec = date.substring(12,14);
 		return year + "-" + month + "-" + day + " " + hour + ":" + min + ":" + sec;
 	}
+	//update data every 5 minute.
+	setInterval(function() {
+		var d = new Date();
+		var minute = d.getMinutes();
+		var second = d.getSeconds();
+		if(minute%5 == "0" && second == "0") {
+			getData();
+		}
+	},1000);
 </script>
 </head>
 <body>
