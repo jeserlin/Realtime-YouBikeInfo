@@ -38,7 +38,7 @@ public class YouBikeDTO {
 	//address in English
 	private String aren;
 
-	//available spaces
+	//residual space
 	private int bemp;
 
 	//bike stop status
