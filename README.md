@@ -14,7 +14,7 @@ It show realtime Youbike data from Taipei.Data(open data from Taipei government,
 ## Features:
 
 ### 1.Realtime YouBike inforamtion in Taipei City
-From this map, you can see all bike stop showing on the map as marker.
+From this map, you can see all bike stop showing on the map as markers.</br>
 Move the mouse on top of the marker will show up a infowindow with realtime YouBike information,
 whitch contains:
 
