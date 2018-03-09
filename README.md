@@ -1,5 +1,5 @@
 # Realtime- YouBike information
-Realtime- YouBike information usese Google map as base.
+Realtime- YouBike information uses Google Map as base.
 It show realtime Youbike data from Taipei.Data(open data from Taipei government, Taiwan)</br>
 see here --> http://data.taipei
 
