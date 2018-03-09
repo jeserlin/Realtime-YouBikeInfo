@@ -1,7 +1,7 @@
 # Realtime- YouBike information
-Realtime- YouBike information uses Google Map as base.
+Realtime- YouBike information uses Google Map as base.</br>
 It show realtime Youbike data from Taipei.Data(open data from Taipei government, Taiwan)</br>
-see here --> http://data.taipei
+*see here --> http://data.taipei
 
 ## I'm using:
 
