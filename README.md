@@ -21,8 +21,8 @@ From this map, you can see all bike stop showing on the map as markers.</br>
 Move the mouse on top of the marker will show up a infowindow with realtime YouBike information,
 whitch contains:
 
-(1) Site Name</br>
-(2) Site Address</br>
-(3) Available Bikes Number</br>
-(4) Residual Space</br>
-(5) Lastest Update Time</br>
+* Site Name</br>
+* Site Address</br>
+* Available Bikes Number</br>
+* Residual Space</br>
+* Lastest Update Time</br>
