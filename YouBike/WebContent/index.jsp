@@ -21,6 +21,17 @@
 			Real-time YouBike Info.
 		</a>
 	</nav>
+	<div style="position:absolute;z-index: 1;right:2%;top: 100px;">
+		<div class="fa-2x text-deepPink">
+			<i class="fas fa-crosshairs"></i>
+		</div>
+		<div class="pt-3 fa-2x text-deepPink">
+			<i class="fa-invers fas fa-bicycle"></i>
+		</div>
+		<div class="pt-3 fa-2x text-deepPink">
+			<i class="fab fa-product-hunt"></i>
+		</div>
+	</div>
 	<div id="map"></div>
 	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8ti6B8D8eQxk8ZJhi8Tik0esCjddSvmY&libraries=visualization&callback=initMap"></script>
 </body>
