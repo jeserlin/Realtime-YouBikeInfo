@@ -28,7 +28,9 @@ whitch contains:
 * Lastest Update Time</br>
 
 ### 2.My Position
-Coming soon ......
+My Position will pan to the the geographical position of user.
+But this does not work in safari with localhost :(
+Use Chrome to try this out!
 
 ### 3.Available Bikes(Filter)
 Coming soon ......
