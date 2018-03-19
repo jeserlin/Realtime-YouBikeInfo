@@ -22,14 +22,20 @@
 		</a>
 	</nav>
 	<div style="position:absolute;z-index: 1;right:2%;top: 100px;">
-		<div class="fa-2x text-deepPink">
-			<i class="fas fa-crosshairs"></i>
+		<div class="fa-2x pointer" onclick="toMyPosition()">
+			<button type="button" class="btn btn-deepPink btn-lg">
+				<i class="fas fa-crosshairs"></i>
+			</button>
 		</div>
-		<div class="pt-3 fa-2x text-deepPink">
-			<i class="fa-invers fas fa-bicycle"></i>
+		<div class="pt-3 fa-2x pointer">
+			<button type="button" class="btn btn-deepPink btn-lg" style="width:54px;">
+				<i class="fa-invers fas fa-bicycle"></i>
+			</button>
 		</div>
-		<div class="pt-3 fa-2x text-deepPink">
-			<i class="fab fa-product-hunt"></i>
+		<div class="pt-3 fa-2x pointer">
+			<button type="button" class="btn btn-deepPink btn-lg">
+				<i class="fab fa-product-hunt"></i>
+			</button>
 		</div>
 	</div>
 	<div id="map"></div>

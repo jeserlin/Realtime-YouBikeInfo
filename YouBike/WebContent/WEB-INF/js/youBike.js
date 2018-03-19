@@ -72,6 +72,24 @@ function createMarkers(data) {
 		infowindowMap.set(data[i].sno, infowindow);
 	}
 }
+function toMyPosition() {
+	// Try HTML5 geolocation.
+	if (navigator.geolocation) {
+		navigator.geolocation.getCurrentPosition(function(position) {
+			var pos = {
+					lat: position.coords.latitude,
+					lng: position.coords.longitude
+			};
+			map.setCenter(pos);
+			map.setZoom(17);
+		}, function() {
+			alert("Does not support.");
+		});
+	} else {
+		// Browser doesn't support Geolocation
+		alert("Does not support.");
+	}
+}
 function convertDate(date) {
 	var year = date.substring(0, 4);
 	var month = date.substring(4, 6);
