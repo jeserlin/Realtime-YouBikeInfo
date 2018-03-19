@@ -26,3 +26,12 @@ whitch contains:
 * Available Bikes Number</br>
 * Residual Space</br>
 * Lastest Update Time</br>
+
+### 2.My Position
+Coming soon ......
+
+### 3.Available Bikes(Filter)
+Coming soon ......
+
+### 4.Available Spaces(Filter)
+Coming soon ......
