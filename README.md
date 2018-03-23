@@ -28,12 +28,12 @@ whitch contains:
 * Lastest Update Time</br>
 
 ### 2.My Position
-My Position will pan to the the geographical position of user.</br>
-But this does not work in safari with localhost :(</br>
+My Position will change the center of the map to the geographical position of user.</br>
+But this does not work in Safari with localhost :(</br>
 Use Chrome to try this out!
 
-### 3.Available Bikes(Filter)
+### 3.Available Bikes (Different marker)
 Coming soon ......
 
-### 4.Available Spaces(Filter)
+### 4.Available Spaces (Different marker)
 Coming soon ......
