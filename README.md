@@ -1,6 +1,6 @@
 # Realtime- YouBike information
 Realtime- YouBike information uses Google Map as base.</br>
-It show realtime Youbike data from Data.Taipei.(open data from Taipei government, Taiwan)</br>
+It shows realtime Youbike data from Data.Taipei.(open data from Taipei government, Taiwan)</br>
 * Data.Taipei :</br>
 http://data.taipei</br>
 * Realtime youbike data:</br>
@@ -17,9 +17,9 @@ http://data.taipei/opendata/datalist/datasetMeta?oid=8ef1626a-892a-4218-8344-f7a
 ## Features:
 
 ### 1.Realtime YouBike inforamtion in Taipei City
-From this map, you can see all bike stop showing on the map as markers.</br>
-Move the mouse on top of the marker will show up a infowindow with realtime YouBike information,
-whitch contains:
+From this map, you can see all bike stops showing on the map as markers.</br>
+Move the mouse on top of the marker will show up an infowindow with realtime YouBike information,
+which contains:
 
 * Site Name</br>
 * Site Address</br>
