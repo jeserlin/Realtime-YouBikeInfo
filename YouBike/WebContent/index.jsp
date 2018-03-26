@@ -10,7 +10,7 @@
 	<link href="css/youBike.css" rel="stylesheet" media="screen">
 	<!-- Js -->
 	<script src="plugin/jquery/js/jquery-3.3.1.min.js"></script>
-	<script src="plugin/bootstrap/js/bootstrap.min.js"></script>
+	<script src="plugin/bootstrap/js/bootstrap.bundle.min.js"></script>
 	<script defer src="plugin/fontawsome-5.0.6/fontawesome-all.min.js"></script>
 	<script src="js/youBike.js"></script>
 </head>
@@ -23,13 +23,21 @@
 	</nav>
 	<div style="position:absolute; z-index: 1; right:2%; top: 100px;">
 		<div onclick="toMyPosition()">
-			<button type="button" class="btn btn-deepPink btn-lg" style="width:50px; height:50px;">
+			<button type="button" class="btn btn-deepPink btn-lg" style="width:50px; height:50px;"
+				data-toggle="tooltip" data-placement="left" title="My Position">
 				<i class="fas fa-location-arrow"></i>
 			</button>
 		</div>
 		<div class="pt-3" onclick="nearMyPosition()">
-			<button type="button" class="btn btn-deepPink btn-lg" style="width:50px; height:50px;">
+			<button type="button" class="btn btn-deepPink btn-lg" style="width:50px; height:50px;"
+				data-toggle="tooltip" data-placement="left" title="Near-ME">
 				<i class="far fa-compass"></i>
+			</button>
+		</div>
+		<div class="pt-3" onclick="reset()">
+			<button type="button" class="btn btn-deepPink btn-lg" style="width:50px; height:50px;"
+				data-toggle="tooltip" data-placement="left" title="Reverse">
+				<i class="fas fa-redo"></i>
 			</button>
 		</div>
 	</div>
