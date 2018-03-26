@@ -42,4 +42,5 @@ Thumbs.db
 *.project
 .settings
 /.metadata/
+/.recommenders/
 .tern-project
