@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;YouBike/WebContent/WEB-INF/plugin/jquery/js/jquery-3.3.1.js&apos; to &apos;jquery-3.3.1.min.js&apos;" description="Rename resource &apos;jquery-3.3.1.js&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/plugin/jquery/js/jquery-3.3.1.js" name="jquery-3.3.1.min.js" stamp="1520499792442" updateReferences="true"/>
-</session>
