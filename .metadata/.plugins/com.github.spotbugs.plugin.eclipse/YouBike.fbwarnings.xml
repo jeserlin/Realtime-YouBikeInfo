@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BugCollection version="3.1.1" sequence="1" timestamp="1521102565902" analysisTimestamp="1521102561107" release="">
+  <Project projectName="YouBike">
+    <Jar>/Users/jeserlin/Documents/GitHub/Realtime_YouBikeInfo/YouBike/target/classes</Jar>
+    <AuxClasspathEntry>/Users/jeserlin/Documents/GitHub/Realtime_YouBikeInfo/YouBike/target/classes</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/annotations-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/catalina-ant.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/catalina-ha.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/catalina-storeconfig.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/catalina-tribes.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/catalina.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/ecj-4.6.3.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/el-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/jasper-el.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/jasper.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/jaspic-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/jsp-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/servlet-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-coyote.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-dbcp.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-i18n-es.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-i18n-fr.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-i18n-ja.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-jdbc.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-jni.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-util-scan.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-util.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/tomcat-websocket.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/Desktop/HuYi/camp_AW_green/tomcat/apache-tomcat-8.5.20/lib/websocket-api.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/springframework/spring-core/5.0.3.RELEASE/spring-core-5.0.3.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/springframework/spring-jcl/5.0.3.RELEASE/spring-jcl-5.0.3.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/springframework/spring-context/5.0.3.RELEASE/spring-context-5.0.3.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/springframework/spring-beans/5.0.3.RELEASE/spring-beans-5.0.3.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/springframework/spring-expression/5.0.3.RELEASE/spring-expression-5.0.3.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/springframework/spring-aop/5.0.3.RELEASE/spring-aop-5.0.3.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/springframework/spring-webmvc/5.0.3.RELEASE/spring-webmvc-5.0.3.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/springframework/spring-web/5.0.3.RELEASE/spring-web-5.0.3.RELEASE.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/org/json/json/20180130/json-20180130.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Users/jeserlin/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/rt.jar</AuxClasspathEntry>
+    <AuxClasspathEntry>/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib/jce.jar</AuxClasspathEntry>
+    <SrcDir>/Users/jeserlin/Documents/GitHub/Realtime_YouBikeInfo/YouBike/src</SrcDir>
+  </Project>
+  <BugInstance type="DM_DEFAULT_ENCODING" priority="1" rank="19" abbrev="Dm" category="I18N" first="1">
+    <Class classname="com.youBike.service.impl.YouBikeServiceImpl">
+      <SourceLine classname="com.youBike.service.impl.YouBikeServiceImpl" sourcefile="YouBikeServiceImpl.java" sourcepath="com/youBike/service/impl/YouBikeServiceImpl.java"/>
+    </Class>
+    <Method classname="com.youBike.service.impl.YouBikeServiceImpl" name="getYouBikeData" signature="()Ljava/util/List;" isStatic="false">
+      <SourceLine classname="com.youBike.service.impl.YouBikeServiceImpl" start="24" end="55" startBytecode="0" endBytecode="926" sourcefile="YouBikeServiceImpl.java" sourcepath="com/youBike/service/impl/YouBikeServiceImpl.java"/>
+    </Method>
+    <Method classname="java.io.InputStreamReader" name="&lt;init&gt;" signature="(Ljava/io/InputStream;)V" isStatic="false" role="METHOD_CALLED">
+      <SourceLine classname="java.io.InputStreamReader" start="72" end="79" startBytecode="0" endBytecode="108" sourcefile="InputStreamReader.java" sourcepath="java/io/InputStreamReader.java"/>
+    </Method>
+    <SourceLine classname="com.youBike.service.impl.YouBikeServiceImpl" start="29" end="29" startBytecode="47" endBytecode="47" sourcefile="YouBikeServiceImpl.java" sourcepath="com/youBike/service/impl/YouBikeServiceImpl.java"/>
+    <SourceLine classname="com.youBike.service.impl.YouBikeServiceImpl" start="29" end="29" startBytecode="47" endBytecode="47" sourcefile="YouBikeServiceImpl.java" sourcepath="com/youBike/service/impl/YouBikeServiceImpl.java"/>
+  </BugInstance>
+  <BugInstance type="OS_OPEN_STREAM" priority="2" rank="16" abbrev="OS" category="BAD_PRACTICE" first="1">
+    <Class classname="com.youBike.service.impl.YouBikeServiceImpl">
+      <SourceLine classname="com.youBike.service.impl.YouBikeServiceImpl" sourcefile="YouBikeServiceImpl.java" sourcepath="com/youBike/service/impl/YouBikeServiceImpl.java"/>
+    </Class>
+    <Method classname="com.youBike.service.impl.YouBikeServiceImpl" name="getYouBikeData" signature="()Ljava/util/List;" isStatic="false">
+      <SourceLine classname="com.youBike.service.impl.YouBikeServiceImpl" start="24" end="55" startBytecode="0" endBytecode="177" sourcefile="YouBikeServiceImpl.java" sourcepath="com/youBike/service/impl/YouBikeServiceImpl.java"/>
+    </Method>
+    <Type descriptor="Ljava/io/Reader;" role="TYPE_CLOSEIT">
+      <SourceLine classname="java.io.Reader" start="66" end="249" sourcefile="Reader.java" sourcepath="java/io/Reader.java"/>
+    </Type>
+    <SourceLine classname="com.youBike.service.impl.YouBikeServiceImpl" start="29" end="29" startBytecode="30" endBytecode="30" sourcefile="YouBikeServiceImpl.java" sourcepath="com/youBike/service/impl/YouBikeServiceImpl.java"/>
+    <SourceLine classname="com.youBike.service.impl.YouBikeServiceImpl" start="29" end="29" startBytecode="30" endBytecode="30" sourcefile="YouBikeServiceImpl.java" sourcepath="com/youBike/service/impl/YouBikeServiceImpl.java"/>
+  </BugInstance>
+  <Errors errors="0" missingClasses="0"></Errors>
+  <FindBugsSummary timestamp="Wed, 14 Mar 2018 14:59:23 +0800" total_classes="5" referenced_classes="37" total_bugs="2" total_size="173" num_packages="4" java_version="1.8.0_77" vm_version="25.77-b03" cpu_seconds="14.69" clock_seconds="4.80" peak_mbytes="559.04" alloc_mbytes="1024.00" gc_seconds="0.23" priority_2="1" priority_1="1">
+    <PackageStats package="com.youBike.controller" total_bugs="0" total_types="1" total_size="15">
+      <ClassStats class="com.youBike.controller.YouBikeController" sourceFile="YouBikeController.java" interface="false" size="15" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.youBike.dto" total_bugs="0" total_types="2" total_size="123">
+      <ClassStats class="com.youBike.dto.MessageDTO" sourceFile="MessageDTO.java" interface="false" size="32" bugs="0"/>
+      <ClassStats class="com.youBike.dto.YouBikeDTO" sourceFile="YouBikeDTO.java" interface="false" size="91" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.youBike.service" total_bugs="0" total_types="1" total_size="2">
+      <ClassStats class="com.youBike.service.YouBikeService" sourceFile="YouBikeService.java" interface="true" size="2" bugs="0"/>
+    </PackageStats>
+    <PackageStats package="com.youBike.service.impl" total_bugs="2" total_types="1" total_size="33" priority_2="1" priority_1="1">
+      <ClassStats class="com.youBike.service.impl.YouBikeServiceImpl" sourceFile="YouBikeServiceImpl.java" interface="false" size="33" bugs="2" priority_2="1" priority_1="1"/>
+    </PackageStats>
+    <FindBugsProfile>
+      <ClassProfile name="de.tobject.findbugs.builder.FindBugs2Eclipse" totalMilliseconds="439" invocations="2" avgMicrosecondsPerInvocation="219655" maxMicrosecondsPerInvocation="260283" standardDeviationMicrosecondsPerInvocation="40628"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine" totalMilliseconds="197" invocations="415" avgMicrosecondsPerInvocation="475" maxMicrosecondsPerInvocation="24824" standardDeviationMicrosecondsPerInvocation="1683"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FieldItemSummary" totalMilliseconds="65" invocations="37" avgMicrosecondsPerInvocation="1764" maxMicrosecondsPerInvocation="15083" standardDeviationMicrosecondsPerInvocation="3099"/>
+      <ClassProfile name="edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory" totalMilliseconds="56" invocations="149" avgMicrosecondsPerInvocation="378" maxMicrosecondsPerInvocation="5602" standardDeviationMicrosecondsPerInvocation="656"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.NoteDirectlyRelevantTypeQualifiers" totalMilliseconds="47" invocations="37" avgMicrosecondsPerInvocation="1292" maxMicrosecondsPerInvocation="18478" standardDeviationMicrosecondsPerInvocation="3601"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FindNoSideEffectMethods" totalMilliseconds="46" invocations="37" avgMicrosecondsPerInvocation="1266" maxMicrosecondsPerInvocation="11922" standardDeviationMicrosecondsPerInvocation="2279"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.ClassDataAnalysisEngine" totalMilliseconds="44" invocations="415" avgMicrosecondsPerInvocation="107" maxMicrosecondsPerInvocation="1846" standardDeviationMicrosecondsPerInvocation="141"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory" totalMilliseconds="38" invocations="45" avgMicrosecondsPerInvocation="852" maxMicrosecondsPerInvocation="32928" standardDeviationMicrosecondsPerInvocation="4844"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine" totalMilliseconds="32" invocations="75" avgMicrosecondsPerInvocation="428" maxMicrosecondsPerInvocation="15898" standardDeviationMicrosecondsPerInvocation="1863"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory" totalMilliseconds="30" invocations="44" avgMicrosecondsPerInvocation="687" maxMicrosecondsPerInvocation="8647" standardDeviationMicrosecondsPerInvocation="1889"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory" totalMilliseconds="26" invocations="44" avgMicrosecondsPerInvocation="602" maxMicrosecondsPerInvocation="9406" standardDeviationMicrosecondsPerInvocation="1747"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory" totalMilliseconds="25" invocations="44" avgMicrosecondsPerInvocation="587" maxMicrosecondsPerInvocation="11589" standardDeviationMicrosecondsPerInvocation="1806"/>
+      <ClassProfile name="edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory" totalMilliseconds="25" invocations="44" avgMicrosecondsPerInvocation="572" maxMicrosecondsPerInvocation="14636" standardDeviationMicrosecondsPerInvocation="2229"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.OverridingEqualsNotSymmetrical" totalMilliseconds="23" invocations="37" avgMicrosecondsPerInvocation="624" maxMicrosecondsPerInvocation="14051" standardDeviationMicrosecondsPerInvocation="2269"/>
+      <ClassProfile name="edu.umd.cs.findbugs.detect.FunctionsThatMightBeMistakenForProcedures" totalMilliseconds="22" invocations="37" avgMicrosecondsPerInvocation="618" maxMicrosecondsPerInvocation="6915" standardDeviationMicrosecondsPerInvocation="1482"/>
+      <ClassProfile name="edu.umd.cs.findbugs.util.TopologicalSort" totalMilliseconds="20" invocations="382" avgMicrosecondsPerInvocation="54" maxMicrosecondsPerInvocation="1284" standardDeviationMicrosecondsPerInvocation="106"/>
+    </FindBugsProfile>
+  </FindBugsSummary>
+  <ClassFeatures></ClassFeatures>
+  <History>
+    <AppVersion sequence="0" timestamp="1521102565900" release="" codeSize="0" numClasses="0"/>
+  </History>
+</BugCollection>

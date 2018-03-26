@@ -1,0 +1,16 @@
+1519875009498	Delete element
+1519875281213	Delete element
+1519875512293	Delete element
+1519886280472	Rename package 'CrunchifyHelloWorld'
+1519886308313	Rename type 'CrunchifyHelloWorld'
+1519886322527	Delete element
+1519886368589	Rename resource 'crunchify-servlet.xml'
+1519886499611	Rename package 'com.instantRainFall'
+1519956742942	Delete element
+1519956793943	Copy package
+1519956806211	Delete element
+1519969826406	Rename package 'com.instantRainFall.controller'
+1519969841196	Rename package 'com.instantRainFall.dto'
+1519969960625	Rename type 'InstantRainFallController'
+1519970050797	Rename resource 'instantRainFall-servlet.xml'
+1519970192317	Rename resource 'instantRainFall.css'
