@@ -27,13 +27,18 @@ which contains:
 * Residual Space</br>
 * Lastest Update Time</br>
 
-### 2.My Position
+### 2.Different colors of marker
+On the map, there are two differend colors of markers.</br>
+One is green, another is orange.</br>
+The former represents there are available Bikes and space in the YouBike site, </br>
+the latter represents conversely.
+
+### 3.My Position
 My Position will change the center of the map to the geographical position of user.</br>
 But this does not work in Safari with localhost :(</br>
 Use Chrome to try this out!
 
-### 3.Available Bikes (Different marker)
-Coming soon ......
+### 4.Near-Me
+Near-ME will take the geographical position of user as center and draw a circle with a radius of 500 meters on the map.</br>
+It will only shows the Youbike sites which are in the range and it's draggable.</br>
 
-### 4.Available Spaces (Different marker)
-Coming soon ......
