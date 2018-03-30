@@ -35,7 +35,7 @@ which contains:
 ### 2.Different colors of marker
 On the map, there are two differend colors of markers.</br>
 One is green, another is orange.</br>
-The former represents there are available Bikes and space in the YouBike site, the latter represents conversely.
+The former represents there are available Bikes and space in the YouBike site, and vice versa.
 
 ### 3.My Position
 My Position will change the center of the map to the geographical position of user.</br>
